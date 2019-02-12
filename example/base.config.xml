@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+ <objectMap> 
+ 	<objectFile> 
+		<data input_file_name="negative.txt" value="-1" output_file_name="label"/>
+		<data input_file_name="positive.txt" value="1" output_file_name="labels"/>
+	</objectFile> 
+ </objectMap> 
+ 

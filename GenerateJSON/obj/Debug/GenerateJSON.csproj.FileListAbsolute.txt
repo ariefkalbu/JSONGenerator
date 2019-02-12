@@ -1,0 +1,9 @@
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\obj\Debug\GenerateJSON.csprojAssemblyReference.cache
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\obj\Debug\GenerateJSON.csproj.CoreCompileInputs.cache
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\bin\Debug\GenerateJSON.exe.config
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\bin\Debug\GenerateJSON.exe
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\bin\Debug\GenerateJSON.pdb
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\bin\Debug\Newtonsoft.Json.dll
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\obj\Debug\GenerateJSON.csproj.CopyComplete
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\obj\Debug\GenerateJSON.exe
+D:\KALBU\Learning\C#\GenerateJSON\GenerateJSON\obj\Debug\GenerateJSON.pdb
